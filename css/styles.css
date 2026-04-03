@@ -150,10 +150,10 @@ img{
     margin: 48px auto 0;
     border-radius: 4px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 .hero-button:hover, .hero-button:focus{
     background-color: #404bbf;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 /* Features Section */
 .visually-hidden {
